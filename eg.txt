@@ -1,1 +1,1 @@
-Hello.This is example file.we can write txt
+Hello.This is example file.we can write txt.
